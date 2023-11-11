@@ -1,7 +1,7 @@
 public class ThinCrustDough implements Dough {
 
     public String toString() {
-        return "Thin Crust";
+        return "Thin Crust Dough";
     }
 
 }

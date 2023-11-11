@@ -22,6 +22,6 @@ public class NYPizzaIngredientFactory implements PizzaIngredientFactory {
 	}
 
 	public Clams createClam() {
-		return new FrozenClaim();
+		return new FrozenClam();
 	}
 }
